@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">HocListViewCoBan</string>
+    <string-array name="myArray">
+        <item>Hà Nội</item>
+        <item>Đà Nẵng</item>
+        <item>Nha Trang</item>
+        <item>Phú Quốc</item>
+        <item>Vũng Tàu</item>
+        <item>Cần Thơ</item>
+        <item>Quảng Ninh</item>
+        <item>Hà Giang</item>
+        <item>Cao Bằng</item>
+        <item>Đà Lạt</item>
+        <item>Cần Thơ</item>
+        <item>Tiền Giang</item>
+        <item>Lào Cai</item>
+        <item>Yên Bái</item>
+        <item>Buôn Ma Thuật</item>
+        <item>Agasdian</item>
+    </string-array>
+</resources>
